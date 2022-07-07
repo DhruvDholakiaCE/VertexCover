@@ -1,5 +1,5 @@
 
-# VertexCover
+# Vertex Cover
 Minimize the number of cameras police need to install, and still be as effective as possible with their monitoring at traffic intersections.
 
 
